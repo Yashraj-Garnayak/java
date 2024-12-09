@@ -18,10 +18,6 @@ class data_types{
     // boolean values true or false
     boolean h = true;
     boolean i = false;
-    // bool could also be in zero = false and one = true
-    boolean j = 1;
-    boolean k = 0;
-
 
     }
 }
