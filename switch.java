@@ -52,6 +52,7 @@ class hello{
         // ab as an expression chek karte hna 
         String output = "kuch bhi!! ea to change hi hona hai";
 
+
         output = switch(opt){
             case 1-> "this is case 1";
             case 2 -> "this is case 2";
