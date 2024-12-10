@@ -3,7 +3,7 @@ class data_types{
     public static void main (String a[]){
 
     //integers 
-    byte a = 13;
+    byte z = 13;
     short b = 1345;
     int c = 14567;
     long d = 123456543212345l;
