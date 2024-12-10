@@ -73,6 +73,8 @@ class hello{
             case 4: yield "this is case 4";
             default: yield "ea tab run hoga jub opt case's ke range mai nehi hoga ";
         };
-         System.out.println(output2);
+        System.out.println(output2);
+        // chalo bhai sara github pi dalo jaldi
+        
     }
 }
